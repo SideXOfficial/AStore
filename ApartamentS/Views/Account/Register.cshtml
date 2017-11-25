@@ -1,0 +1,28 @@
+﻿@model ApartamentS.Models.User
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Register</title>
+</head>
+<body>
+    <div> 
+        @using (Html.BeginForm())
+        {
+            @Html.ValidationSummary()
+            @ViewBag.Message
+            <p>User First Name: @Html.TextBoxFor(x => x.First_Name) </p>
+            <p>User Second Name: @Html.TextBoxFor(x => x.Second_Name)</p>
+            <p>User Patronymic: @Html.TextBoxFor(x => x.Patronymic)</p>
+            <p>Login: @Html.TextBoxFor(x => x.Login)</p>
+            <p>Password: @Html.TextBoxFor(x => x.Password)</p>
+            <input type="submit" value="Submit" />
+        } 
+    </div>
+</body>
+</html>

@@ -1,0 +1,2 @@
+﻿DELETE FROM Pictures
+DBCC Pictures('SOME_TABLE', RESEED, 0)

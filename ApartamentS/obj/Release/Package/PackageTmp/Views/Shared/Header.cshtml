@@ -1,0 +1,36 @@
+﻿<input type="button" value="MainPage" onclick="location.href='@Url.Action("Index", "Home")'" />
+@{
+    string url = Request.FilePath;
+
+    if (url == "/Ad/Ads")
+    {
+        if (User.Identity.IsAuthenticated)
+        {
+        <input type="button" value="Add_Ad" onclick="location.href='@Url.Action("add_Ad", "Ad")'" />
+        }
+    }
+    else if (url == "/")
+    {
+        <input type="button" value="Ads" onclick="location.href='@Url.Action("Ads", "Ad")'" />
+    }
+
+    if (User.Identity.IsAuthenticated)
+    {
+        <b>@User.Identity.Name</b>
+        @Html.ActionLink("LogOut", "LogOut", "Account")
+    }
+    else
+    {
+        @Html.ActionLink("Register", "Register", "Account")
+        <u>/</u>
+        @Html.ActionLink("Login", "Login", "Account")
+    }
+    <hr>
+    if (url == "/Ad/Ads")
+    {
+    <form action="Find" method="GET">
+        <input name="Title" placeholder="What do you want to find?" />
+        <input type="submit" value="Find" />
+    </form>
+    }
+}

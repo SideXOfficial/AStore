@@ -1,0 +1,24 @@
+﻿@{
+    Layout = null;
+    Html.RenderPartial("Header");
+}
+
+ <div>
+    <!--Смотрим на главной странице-->
+
+    <h2>Users :</h2>
+    @try
+    {
+        foreach (var bag in ViewBag.users)
+        {
+            <hr>
+            <p>ID: @bag.Id First_Name: @bag.First_Name Second_Name: @bag.Second_Name Patronymic: @bag.Patronymic DateCreat: @bag.DataCreat</p>
+            <hr>
+        }
+    }
+    catch
+    {
+        <p>No such a users.</p>
+    }
+    
+</div>

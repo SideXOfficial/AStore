@@ -1,0 +1,24 @@
+﻿@model ApartamentS.Models.User
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    <div>
+    @using (Html.BeginForm())
+     {
+        <h1>@ViewBag.Message</h1>
+        <p>Login: @Html.TextBoxFor(x => x.Login)</p>
+        <p>Password: @Html.TextBoxFor(x => x.Password)</p>
+        <input type="submit" value="Submit" />
+    }
+    </div>
+</body>
+</html>

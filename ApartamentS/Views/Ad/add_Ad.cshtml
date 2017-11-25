@@ -1,0 +1,34 @@
+﻿@model ApartamentS.Models.Ad
+
+@{
+    Layout = null;
+    Html.RenderPartial("Header");
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>add_Ad</title>
+</head>
+<body>
+    <div>
+    @using (Html.BeginForm("add_Ad", "Ad", FormMethod.Post, new { enctype = "multipart/form-data" })) 
+    {
+        @Html.AntiForgeryToken()
+
+            @Html.ValidationSummary()
+            <p>Title: @Html.TextBoxFor(model => model.Title)</p>
+            <p>Decription: @Html.TextBoxFor(model => model.Description)</p>
+            <p>Address: @Html.TextBoxFor(model => model.Address)</p>
+            <p>Phone: @Html.TextBoxFor(model => model.Phone)</p>
+            <p>Price: @Html.TextBoxFor(model => model.Price)</p>
+            <input type="file" name="upload" />
+            <input type="file" name="upload" />
+            <input type="file" name="upload" />
+            <input type="submit" value="Create Ad" />
+    }
+    </div>
+ </body>
+</html>

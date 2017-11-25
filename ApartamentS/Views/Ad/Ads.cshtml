@@ -1,0 +1,67 @@
+﻿@model ApartamentS.Models.Ad
+
+@{
+    Layout = null;
+    Html.RenderPartial("Header");
+}
+
+<!DOCTYPE html>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Ads</title>
+</head>
+<body>
+    <div>
+        @{
+            int test = 0;
+        }
+        @foreach (var bag in ViewBag.ads)
+        {
+            test = 1;
+            <hr>
+            <div style="display: inline-block">
+                <p>ID: @bag.Id Title: @bag.Title</p>
+
+            @if(bag.Description != null)
+            {
+                <p>Description:</p>
+                @bag.Description
+            }
+            <p>
+            Author: @bag.Author_Name
+            
+            @if (bag.Address != null)
+             {
+                  <u>Address:</u>
+                  @bag.Address
+             }
+             
+             Phone: @bag.Phone Price: @bag.Price ₽ DateCreat: @bag.DataCreat</p>
+            </div>
+            <div style="display: inline-block">
+
+            @{
+                using (ApartamentS.Models.ApartamentsContext db = new ApartamentS.Models.ApartamentsContext())
+                {
+                    foreach (ApartamentS.Models.Picture picture in db.Pictures)
+                    {
+                        if (bag.Id == picture.Id_ad)
+                        {
+                            <img src="@picture.Picture_Path" height="150" width="150">
+                        }
+                    }
+                }
+            }
+
+
+            </div>
+        <hr>
+                }
+        @if (test == 0)
+        { <p>No such an ads.</p> }
+    </div>
+</body>
+</html>
+
