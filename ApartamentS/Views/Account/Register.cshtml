@@ -1,28 +1,28 @@
 ﻿@model ApartamentS.Models.User
 @{
     Layout = null;
+    Html.RenderPartial("Header");
 }
-
-<!DOCTYPE html>
-
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Register</title>
-</head>
-<body>
-    <div> 
-        @using (Html.BeginForm())
-        {
-            @Html.ValidationSummary()
-            @ViewBag.Message
-            <p>User First Name: @Html.TextBoxFor(x => x.First_Name) </p>
-            <p>User Second Name: @Html.TextBoxFor(x => x.Second_Name)</p>
-            <p>User Patronymic: @Html.TextBoxFor(x => x.Patronymic)</p>
-            <p>Login: @Html.TextBoxFor(x => x.Login)</p>
-            <p>Password: @Html.TextBoxFor(x => x.Password)</p>
-            <input type="submit" value="Submit" />
-        } 
+<title>Register</title>
+@using (Html.BeginForm("Register", "Account", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div id="login-form" align="center">
+        <h1>Register new user</h1>
+        <fieldset>
+            <form >
+                <div>
+                    <p>
+                        <input name="First_Name" class="field Login_input" type="text" placeholder="First Name" required pattern="^[А-Яа-яЁёA-Za-z]+$">
+                        <input name="Second_Name" class="field Login_input" type="text" placeholder="Second Name" required pattern="^[А-Яа-яЁёA-Za-z]+$">
+                        <input name="Patronymic" class="field Login_input" type="text" placeholder="Patronymic" required pattern="^[А-Яа-яЁёA-Za-z]+$">
+                    </p>
+                    <p>
+                        <input name="Login" class="field Login_input" type="text" placeholder="Login" required pattern="^[A-Za-z0-9]+$">
+                        <input name="Password" class="field Login_input password1" type="password" placeholder="Password" id="Password">
+                    </p>
+                    <input type="submit" value="Submit" class="Login_SUB" />
+                </div>
+            </form>
+        </fieldset>
     </div>
-</body>
-</html>
+}

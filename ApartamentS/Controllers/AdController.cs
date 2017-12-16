@@ -21,7 +21,7 @@ namespace ApartamentS.Controllers
             if ((find = this.Request.QueryString["Title"]) != null)
             {
                 Ad _ads = new Ad();
-                ViewBag.ads = _Ads.Where(p => p.Title.Contains(find)).ToList();
+                ViewBag.ads = LuceneSearch.Search(find);
             }
             else
             {
@@ -62,9 +62,10 @@ namespace ApartamentS.Controllers
                             var path = Path.Combine(Server.MapPath("~/Images/"), picture.FileName); //файл
                             picture.SaveAs(path);
                             _picture.Picture_Path = "/Images/" + picture.FileName; // путь к файлу в базу - его имя
-                            _picture.Id_ad = (int)db.Ads.LongCount() + 1 ;
+                            _picture.Id_ad = (int)db.Ads.LongCount() + 14 ;
                             db.Pictures.Add(_picture);
                             db.SaveChanges();
+
                         }
                     }
 
@@ -73,6 +74,9 @@ namespace ApartamentS.Controllers
                     db.Ads.Add(_ad);
                     // сохраняем в бд все изменения
                     db.SaveChanges();
+
+                    LuceneSearch.AddUpdateLuceneIndex(AdRepository.GetAll());
+
                     return RedirectToAction("Ads");
                 }
             }

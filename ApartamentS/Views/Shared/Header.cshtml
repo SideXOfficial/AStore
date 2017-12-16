@@ -1,36 +1,42 @@
-﻿<input type="button" value="MainPage" onclick="location.href='@Url.Action("Index", "Home")'" />
-@{
-    string url = Request.FilePath;
-
-    if (url == "/Ad/Ads")
-    {
-        if (User.Identity.IsAuthenticated)
-        {
-        <input type="button" value="Add_Ad" onclick="location.href='@Url.Action("add_Ad", "Ad")'" />
-        }
-    }
-    else if (url == "/")
-    {
-        <input type="button" value="Ads" onclick="location.href='@Url.Action("Ads", "Ad")'" />
-    }
-
-    if (User.Identity.IsAuthenticated)
-    {
-        <b>@User.Identity.Name</b>
-        @Html.ActionLink("LogOut", "LogOut", "Account")
-    }
-    else
-    {
-        @Html.ActionLink("Register", "Register", "Account")
-        <u>/</u>
-        @Html.ActionLink("Login", "Login", "Account")
-    }
-    <hr>
-    if (url == "/Ad/Ads")
-    {
-    <form action="Find" method="GET">
-        <input name="Title" placeholder="What do you want to find?" />
-        <input type="submit" value="Find" />
-    </form>
-    }
-}
+﻿<!--ШАПКА-->
+<div>
+    <div id="templatemo_wrapper">
+        <span id="templatemo_wrapper_top"></span>
+        <div id="templatemo_header">
+            <div id="site_title"><a>Beauty Class</a></div>
+            <div id="templatemo_menu" class="ddsmoothmenu">
+                <ul>
+                    @{
+                        <li><a href="/Home/Index" class="selected">Home</a></li>
+                        string url = Request.FilePath;
+                        if (url == "/Ad/Ads" && @User.Identity.IsAuthenticated)
+                        {
+                            <li><a href="/Ad/add_Ad" class="selected">add_Ad</a></li>
+                        }
+                        else
+                        {
+                            <li><a href="/Ad/Ads" class="selected">Ads</a></li>
+                        }
+                        if (@User.Identity.IsAuthenticated)
+                        {
+                            @User.Identity.Name
+                            <li><a href="/Account/LogOut" class="selected">LogOut</a></li>
+                        }
+                        else
+                        {
+                            <li><a href="/Account/Login" class="selected">Login</a></li>
+                            <li><a href="/Account/Register" class="selected">Register</a></li>
+                        }
+                        <form action="/Ad/Ads/Find" method="GET">
+                            <input name="Title" placeholder="What do you want to find?"  class="Login_input2"/>
+                            <input type="submit" value="Find" class="Login_SUB2"/>
+                        </form>
+                    }
+                </ul>
+                <br style="clear: left" />
+            </div>
+        </div>
+    </div>
+</div>
+<p align="center" style="color:#21141c; font-size:20px">Today @System.DateTime.Now.ToShortDateString()</p>
+<!--ШАПКА-->

@@ -1,24 +1,23 @@
-﻿@model ApartamentS.Models.User
+﻿<!--Блок входа в аккаунт-->
+@model ApartamentS.Models.User
 @{
     Layout = null;
+    Html.RenderPartial("Header");
 }
-
-<!DOCTYPE html>
-
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Login</title>
-</head>
-<body>
-    <div>
-    @using (Html.BeginForm())
-     {
-        <h1>@ViewBag.Message</h1>
-        <p>Login: @Html.TextBoxFor(x => x.Login)</p>
-        <p>Password: @Html.TextBoxFor(x => x.Password)</p>
-        <input type="submit" value="Submit" />
-    }
+<title>Login</title>
+@using (Html.BeginForm("Login", "Home", FormMethod.Post))
+{
+    <div id="login-form" align="center">
+        <h1>Authorization</h1>
+        <fieldset>
+            <form class="Login_FORM" style="margin: 0px auto;">
+                <div class="Login_BOX">
+                    <input name="Login" placeholder="Login" class="Login_input" >
+                    <input name="Password" type="password" placeholder="Password" class="Login_input">
+                    <input type="submit" value="Submit" class="Login_SUB" />
+                    @Html.ActionLink("Register", "Register", "Account")
+                </div>
+            </form>
+        </fieldset>
     </div>
-</body>
-</html>
+}

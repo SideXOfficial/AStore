@@ -1,0 +1,195 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background: url(/Images/Bg.jpg) no-repeat;
+    background-attachment: fixed;
+}
+
+/*ПОИСК*/
+.form-search {
+    font: 13px Helvetica, Arial, sans-serif;
+}
+
+.form-search input {
+    background-color: #ebebeb;
+    color: #404040;
+    border-radius: 3px;
+    width: 60px;
+    height: 32px;
+    line-height: 32px;
+    padding: 0 30px 0 6px;
+    background-repeat: no-repeat;
+    border: 1px solid #747474;
+}
+
+.form-search input[type="submit"] {
+    border: none;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+
+.form-search input[name="Title"] {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+}
+
+.form-search select {
+    background-color: #ebebeb;
+    border-radius: 3px;
+    width: 140px;
+    height: 32px;
+    line-height: 32px;
+}
+
+.form-search input[name="Title"]:focus {
+    width: 160px;
+}
+/*ПОИСК*/
+
+/*БОКС ЛОГИНА*/
+.Login_FORM {
+    overflow: hidden;
+    width: 270px;
+}
+
+.Login_BOX {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    outline: none;
+    -webkit-appearance: none;
+    width: 260px;
+    position: center;
+}
+
+.Login_input {
+    background-color: #ebebeb;
+    border: none;
+    width: 260px;
+    color: #404040;
+    float: none;
+    font-weight: bold;
+    margin-top: 1px;
+    padding: 12px 12px;
+    -webkit-appearance: none;
+}
+
+.Login_input2 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background-color: #dbd8d8;
+    width: 260px;
+    float: none;
+    font-weight: bold;
+    margin-top: 1px;
+    padding: 2px 12px;
+    -webkit-appearance: none;
+}
+
+.Login_SUB {
+    background-color: #ebebeb;
+    border: none;
+    width: 260px;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    color: #404040;
+    float: none;
+    font-weight: bold;
+    margin-top: 20px;
+    padding: 12px 12px;
+    -webkit-appearance: none;
+}
+
+.Login_SUB2 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #fff;
+    text-align: center;
+    background-color: #f4b5bc;
+    border: none;
+    width: 80px;
+    border-radius: 3px;
+    float: none;
+    margin-top: 5px;
+    padding: 2px 0px;
+}
+
+#login-form fieldset {
+    border: none;
+    padding: 20px;
+}
+/*БОКС ЛОГИНА*/
+
+#login-form {
+    position: center;
+    align-content: center;
+    background-color: #363636;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    -webkit-box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.3);
+}
+
+#login-form h1 {
+    background-color: #292829;
+    border-radius: 5px 5px 0px 0px;
+    -moz-border-radius: 5px 5px 0px 0px;
+    -webkit-border-radius: 5px 5px 0px 0px;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+#login-form h3 {
+    background-color: #292829;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+
+/*РЕГИСТРАЦИЯ*/
+.check {
+    background: #e3e3e3;
+    padding: 10px 120px;
+    margin-top: 10px;
+}
+
+input:valid + span::after {
+    content: '✓';
+    color: green;
+}
+
+input:invalid + span::after {
+    content: '✗';
+    color: red;
+}
+
+.data input[type="submit"] {
+    position: center;
+    color: black;
+    border: none;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+
+button {
+    background: #0be00b;
+    background: radial-gradient(farthest-corner at 50% 100%, #00df00, #009800);
+    background: -webkit-radial-gradient(50% 100%, cover, #00df00, #009800);
+    color: #FFF;
+    width: 170px;
+    height: 23px;
+    border-radius: 20px;
+    border: 1px solid #099609;
+    position: relative;
+    z-index: 1;
+}

@@ -99,3 +99,217 @@ C:\Users\Tort\Desktop\ApartamentS\ApartamentS\bin\EntityFramework.dll
 C:\Users\Tort\Desktop\ApartamentS\ApartamentS\bin\EntityFramework.SqlServer.dll
 C:\Users\Tort\Desktop\ApartamentS\ApartamentS\bin\EntityFramework.xml
 C:\Users\Tort\Desktop\ApartamentS\ApartamentS\bin\EntityFramework.SqlServer.xml
+C:\Users\Tort\Desktop\ApartamentS\ApartamentS\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Tort\Desktop\ApartamentS\ApartamentS\bin\Lucene.Net.dll
+C:\Users\Tort\Desktop\ApartamentS\ApartamentS\bin\Lucene.Net.pdb
+C:\Users\Tort\Desktop\ApartamentS\ApartamentS\bin\Lucene.Net.xml
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\ApplicationInsights.config
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\csc.exe
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\csc.exe.config
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\csc.rsp
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\csi.exe
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\csi.exe.config
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\csi.rsp
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.AppContext.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.Console.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.IO.Compression.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.Security.Claims.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.Threading.Thread.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.ValueTuple.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\vbc.exe
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\vbc.exe.config
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\vbc.rsp
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\VBCSCompiler.exe
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\ApartamentS.dll.config
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\ApartamentS.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\ApartamentS.pdb
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Antlr3.Runtime.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\EntityFramework.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\EntityFramework.SqlServer.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Lucene.Net.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Microsoft.AI.Web.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Newtonsoft.Json.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\System.Web.Helpers.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\System.Web.Mvc.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\System.Web.Optimization.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\System.Web.Razor.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\System.Web.WebPages.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\System.Web.WebPages.Razor.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\WebGrease.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\EntityFramework.xml
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\EntityFramework.SqlServer.xml
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Lucene.Net.pdb
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Lucene.Net.xml
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\System.Web.Helpers.xml
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\System.Web.Mvc.xml
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\System.Web.Optimization.xml
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\System.Web.Razor.xml
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\System.Web.WebPages.xml
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\System.Web.WebPages.Razor.xml
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Antlr3.Runtime.pdb
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Newtonsoft.Json.xml
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\Microsoft.AI.Web.xml
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\ru\System.Web.Razor.resources.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\obj\Debug\ApartamentS.csprojResolveAssemblyReference.cache
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\obj\Debug\ApartamentS.csproj.CoreCompileInputs.cache
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\obj\Debug\ApartamentS.dll
+C:\Users\axlll\OneDrive\Рабочий стол\ApartamentS\ApartamentS\obj\Debug\ApartamentS.pdb
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\ApplicationInsights.config
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\csc.exe
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\csc.exe.config
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\csc.rsp
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\csi.exe
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\csi.exe.config
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\csi.rsp
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.AppContext.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.Console.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.Security.Claims.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\vbc.exe
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\vbc.exe.config
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\vbc.rsp
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\ApartamentS.dll.config
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\ApartamentS.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\ApartamentS.pdb
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Antlr3.Runtime.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\EntityFramework.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\EntityFramework.SqlServer.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Lucene.Net.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Microsoft.AI.Web.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Newtonsoft.Json.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\System.Web.Helpers.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\System.Web.Mvc.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\System.Web.Optimization.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\System.Web.Razor.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\System.Web.WebPages.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\WebGrease.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\EntityFramework.xml
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\EntityFramework.SqlServer.xml
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Lucene.Net.pdb
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Lucene.Net.xml
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\System.Web.Helpers.xml
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\System.Web.Mvc.xml
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\System.Web.Optimization.xml
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\System.Web.Razor.xml
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\System.Web.WebPages.xml
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Antlr3.Runtime.pdb
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Newtonsoft.Json.xml
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\Microsoft.AI.Web.xml
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\obj\Debug\ApartamentS.csprojResolveAssemblyReference.cache
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\obj\Debug\ApartamentS.csproj.CoreCompileInputs.cache
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\obj\Debug\ApartamentS.dll
+C:\Users\Tort\Desktop\ApartamentS(css)\ApartamentS\obj\Debug\ApartamentS.pdb
